@@ -1,0 +1,15 @@
+/Users/estefaniaguadacordovak/Desktop/Assessment/bin/Debug/net7.0/Assessment
+/Users/estefaniaguadacordovak/Desktop/Assessment/bin/Debug/net7.0/Assessment.deps.json
+/Users/estefaniaguadacordovak/Desktop/Assessment/bin/Debug/net7.0/Assessment.runtimeconfig.json
+/Users/estefaniaguadacordovak/Desktop/Assessment/bin/Debug/net7.0/Assessment.dll
+/Users/estefaniaguadacordovak/Desktop/Assessment/bin/Debug/net7.0/Assessment.pdb
+/Users/estefaniaguadacordovak/Desktop/Assessment/obj/Debug/net7.0/Assessment.csproj.AssemblyReference.cache
+/Users/estefaniaguadacordovak/Desktop/Assessment/obj/Debug/net7.0/Assessment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/estefaniaguadacordovak/Desktop/Assessment/obj/Debug/net7.0/Assessment.AssemblyInfoInputs.cache
+/Users/estefaniaguadacordovak/Desktop/Assessment/obj/Debug/net7.0/Assessment.AssemblyInfo.cs
+/Users/estefaniaguadacordovak/Desktop/Assessment/obj/Debug/net7.0/Assessment.csproj.CoreCompileInputs.cache
+/Users/estefaniaguadacordovak/Desktop/Assessment/obj/Debug/net7.0/Assessment.dll
+/Users/estefaniaguadacordovak/Desktop/Assessment/obj/Debug/net7.0/refint/Assessment.dll
+/Users/estefaniaguadacordovak/Desktop/Assessment/obj/Debug/net7.0/Assessment.pdb
+/Users/estefaniaguadacordovak/Desktop/Assessment/obj/Debug/net7.0/Assessment.genruntimeconfig.cache
+/Users/estefaniaguadacordovak/Desktop/Assessment/obj/Debug/net7.0/ref/Assessment.dll
